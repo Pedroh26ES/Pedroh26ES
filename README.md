@@ -1,71 +1,94 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Pedroh26ES.Pedroh26ES" />
+<div align="center">
+  <img height="150" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Bem-+Vindo!+👋;+I’m+Pedro+Henrique!;"  />
+</div>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Bem-+Vindo!+👋;+I’m+Pedro+Henrique!;" />
-</h1>
-
-<h3 align="center">Estudante de Engenharia de Software ᵇʳ</h3>
-
-<br/>
+###
 
 <div align="center">
- 
- 🏪 Cursando Engenharia de Software na  **Universidade PUC-MINAS.**
-
- 
- 📚 Atualmente estou aprendendo as linguagens: **C, HTML, CSS e JavaScript.**
-
-💬 Converse comigo sobre **Programação, Livros, Futebol... ou qualquer coisa do gênero [here](https://github.com/Pedroh26ES/Pedroh26ES/issues)**
-
-
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:#@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="#" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Linguagens-Frameworks- ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c,java,nextjs,mysql" /><br>
-</div>
-
-<br/>
-<hr/>
+###
 
 <div align="center">
-  <h2>🐍 Minhas Contribuições 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/pedroh26ES/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Pedroh26ES.Pedroh26ES&"  />
 </div>
 
-<hr/>
+###
 
-<h2 align="center">⚡ Status ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-Pedroh26ES.vercel.app/?user=Pedroh26ES&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<h1 align="center">📝 Estudante de Engenharia de Software ᵇʳ</h1>
 
-  <img width=390 src="https://github-readme-stats-Pedroh26ES.vercel.app/api?username=Pedroh26ES&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+###
 
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-Pedroh26ES.vercel.app/api/top-langs/?username=Pedroh26ES&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<h1 align="left">🌐  Sobre mim</h1>
+
+###
+
+<h2 align="left">🏪 Cursando Engenharia de Software na Universidade PUC-MINAS.<br><br>📚 Atualmente estou aprendendo as linguagens: C, HTML, CSS e JavaScript.<br><br>💬 Converse comigo sobre Programação, Livros, Futebol... ou qualquer coisa do gênero.</h2>
+
+###
+
+<h1 align="left">📞 Meus Contatos</h1>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="strongrk1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
 </div>
 
-<br/><br/>
+###
 
-<hr/>
+<h1 align="left">🛠 Linguagens - Frameworks 🛠</h1>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<h1 align="left">📈Meus Status</h1>
+
+###
+
+<div align="center">
+  <img height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjFYzQLvCMdtmSuepcSI6jLTg7dKSr5TROUBRBEo8-chzOSwUKQvrMjRsrfEd2DWF-Ut8&usqp=CAU"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedroh26ES&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1&custom_title=Pedro%20Rold%C3%A3o" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedroh26ES&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Pedroh26ES&locale=en&mode=daily&theme=vision-friendly-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Pedroh26ES&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedroh26ES&radius=16&theme=nord&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Pedroh26ES/Pedroh26ES/output/snake.svg" alt="Snake animation" />
+
+###
