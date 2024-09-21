@@ -85,6 +85,6 @@
 
 ###
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/pedroh26ES/output/github-contribution-grid-snake.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pedroh26ES/pedroh26ES/output/github-contribution-grid-snake.svg" />
 
 ###
