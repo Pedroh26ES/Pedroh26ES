@@ -69,7 +69,7 @@
 
 ###
 
-<h1 align="left">📈Meus Status</h1>
+<h2 align="left">🐍 Minhas Contribuições 🐍</h2>
 
 ###
 
@@ -85,8 +85,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Pedroh26ES/Pedroh26ES/output/snake.svg" alt="Snake animation" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/pedroh26ES/output/github-contribution-grid-snake.svg" />
 
 ###
