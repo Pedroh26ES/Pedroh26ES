@@ -22,15 +22,15 @@
 
 ###
 
-<h1 align="left">🌐  Sobre mim</h1>
+<h2 align="left">🌐  Sobre mim</h2>
 
 ###
 
-<h2 align="left">🏪 Cursando Engenharia de Software na Universidade PUC-MINAS.<br><br>📚 Atualmente estou aprendendo as linguagens: C, HTML, CSS e JavaScript.<br><br>💬 Converse comigo sobre Programação, Livros, Futebol... ou qualquer coisa do gênero.</h2>
+<p align="left">🏪 Cursando Engenharia de Software na Universidade PUC-MINAS.<br><br>📚 Atualmente estou aprendendo as linguagens: C, HTML, CSS e JavaScript.<br><br>💬 Converse comigo sobre Programação, Livros, Futebol... ou qualquer coisa do gênero.</p>
 
 ###
 
-<h1 align="left">📞 Meus Contatos</h1>
+<h2 align="left">📞 Meus Contatos</h2>
 
 ###
 
@@ -45,7 +45,7 @@
 
 ###
 
-<h1 align="left">🛠 Linguagens - Frameworks 🛠</h1>
+<h2 align="left">🛠 Linguagens - Frameworks 🛠</h2>
 
 ###
 
@@ -73,11 +73,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjFYzQLvCMdtmSuepcSI6jLTg7dKSr5TROUBRBEo8-chzOSwUKQvrMjRsrfEd2DWF-Ut8&usqp=CAU"  />
-</div>
-
-###
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pedroh26ES&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1&custom_title=Pedro%20Rold%C3%A3o" height="150" alt="stats graph"  />
@@ -88,6 +84,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Pedroh26ES/Pedroh26ES/output/snake.svg" alt="Snake animation" />
 
