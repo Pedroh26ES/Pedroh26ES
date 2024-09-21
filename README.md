@@ -69,7 +69,7 @@
 
 ###
 
-<h2 align="left">🐍 Minhas Contribuições 🐍</h2>
+<h2 align="left">🐍 Minhas Contribuições </h2>
 
 ###
 
