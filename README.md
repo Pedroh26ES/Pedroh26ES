@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">🏪 Cursando Engenharia de Software na Universidade PUC-MINAS.<br><br>📚 Atualmente estou aprendendo as linguagens: C, HTML, CSS e JavaScript.<br><br>💬 Converse comigo sobre Programação, Livros, Futebol... ou qualquer coisa do gênero.</p>
+<p align="left">🏪 Cursando Engenharia de Software na Universidade PUC-MINAS.
 
 ###
 
