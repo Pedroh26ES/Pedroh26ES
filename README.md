@@ -74,7 +74,7 @@
 
 <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>
 <b>📚 Recomendações de Leitura</b><br>
-<sub><i>✨ Melhores livros da área que eu já estudei e estou estudando para evoluir como desenvolvedor. 🚀📖</i></sub>
+<sub><i>Melhores livros da área que eu já estudei e estou estudando para evoluir como desenvolvedor. 🚀📖</i></sub>
 
 <br><br>
 
@@ -265,6 +265,52 @@
 
 <div>
 
+<b>📊 Ferramentas para Automações, Growth e Inteligência Artificial</b><br><br>
+
+<p>
+  <i>Ferramentas que estou estudando para criar automações, analisar dados, gerar relatórios e aplicar IA em rotinas de Growth.</i>
+</p>
+
+<b>⚙️ Automações & Produtividade</b><br>
+<p align="left">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make"/>
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier"/>
+  <img src="https://img.shields.io/badge/APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
+</p>
+
+<b>🤖 Inteligência Artificial</b><br>
+<p align="left">
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+</p>
+
+<b>📈 Growth & Dados</b><br>
+<p align="left">
+  <img src="https://img.shields.io/badge/CRM-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="CRM"/>
+  <img src="https://img.shields.io/badge/Testes_A%2FB-FF6F00?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Testes A/B"/>
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics"/>
+  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white" alt="Google Ads"/>
+</p>
+
+<b>📊 Relatórios & BI</b><br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/>
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google Sheets"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio"/>
+</p>
+
+</div>
+
+-----
+
+<div>
+
 <img height="25" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true" alt="Skills Icon"/>
 &nbsp;<b>🚀 Tecnologias e Ferramentas</b><br><br>
 
@@ -326,7 +372,7 @@
   <img src="https://img.shields.io/badge/SoapUI-24325c?style=for-the-badge&logo=smartbear&logoColor=white" alt="SoapUI"/>
 </p>
 
-<b>🖥️ IDEs & Ferramentas IA</b><br>
+<b>🖥️ IDEs & Editores</b><br>
 <p align="left">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Windsurf-000000?style=for-the-badge&logo=windsurf&logoColor=white" alt="Windsurf"/>
@@ -334,37 +380,9 @@
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
 </p>
 
 </div>
------
-
-<div>
-
-<img height="25" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true" alt="Tools Icon"/>
-&nbsp;<b>📊 Ferramentas para Growth, Dados e Produtividade</b><br><br>
-
-<p>
-  <i>Ferramentas que estou estudando e utilizando para análise de dados, relatórios, automações e apoio em rotinas de estágio, Growth e Business Intelligence.</i>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/>
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google Sheets"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio"/>
-  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics"/>
-  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white" alt="Google Ads"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/CRM-0A66C2?style=for-the-badge&logo=hubspot&logoColor=white" alt="CRM"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
-</p>
-
-</div>
-
-
 ----
 <table>
 <tr>
