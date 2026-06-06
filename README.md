@@ -89,15 +89,9 @@
 </td>
 
 <td align="center">
-  <img src="https://th.bing.com/th/id/R.39534082d520c9fc86e59763f32ff82f?rik=84MNI4Pxvwv5EA&pid=ImgRaw&r=0" width="120"><br>
-  <sub><b>Pense em Python</b></sub><br>
-  <sub>Allen B. Downey</sub>
-</td>
-
-<td align="center">
-  <img src="https://th.bing.com/th/id/OIP.cA9Y1DtSz8TuhgNiw794SwHaJ4?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3" width="120"><br>
-  <sub><b>Engenharia de Software Moderna</b></sub><br>
-  <sub>Marco Tulio Valente</sub>
+  <img src="https://github.com/Pedroh26ES/Pedroh26ES/blob/main/81RXMnEXrdL.jpg?raw=true" width="120"><br>
+  <sub><b>Padrões de Projeto</b></sub><br>
+  <sub>Erich Gamma, Richard Helm, Ralph Johnson &amp; John Vlissides</sub>
 </td>
 
 <td align="center">
@@ -106,34 +100,10 @@
   <sub>Ian Sommerville</sub>
 </td>
 
-</tr>
-
-<tr><td><br></td></tr>
-
-<tr>
-
 <td align="center">
-  <img src="https://th.bing.com/th/id/OIP._rIOtIDQxSLJT8ORAEensgHaKG?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3" width="120"><br>
-  <sub><b>Fundamentos de Sistemas Operacionais</b></sub><br>
-  <sub>Silberschatz, Galvin e Gagne</sub>
-</td>
-
-<td align="center">
-  <img src="https://tse1.mm.bing.net/th/id/OIP.9zxEYLr-xoCAsG8oN-bUAAHaLi?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="120"><br>
-  <sub><b>Scrum</b></sub><br>
-  <sub>Jeff Sutherland</sub>
-</td>
-
-<td align="center">
-  <img src="https://toidicodedao.com/wp-content/uploads/2015/03/71ambnhelil-e1552820007165.jpg" width="120"><br>
+  <img src="https://github.com/Pedroh26ES/Pedroh26ES/blob/main/71nj3JM-igL.jpg?raw=true" width="120"><br>
   <sub><b>Clean Code</b></sub><br>
   <sub>Robert C. Martin</sub>
-</td>
-
-<td align="center">
-  <img src="https://github.com/Pedroh26ES/Pedroh26ES/blob/main/81RXMnEXrdL.jpg?raw=true" width="120"><br>
-  <sub><b>Padrôes de Projeto</b></sub><br>
-  <sub>Andrew Hunt &amp; David Thomas</sub>
 </td>
 
 </tr>
@@ -385,3 +355,4 @@
 |  __/  __/ (_| | | | (_) |_____|  _  |  __/ | | | |  | | (_| | |_| |  __/
 |_|   \___|\__,_|_|  \___/      |_| |_|\___|_| |_|_|  |_|\__, |\__,_|\___|
                                                          |___/
+```
