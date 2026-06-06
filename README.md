@@ -132,7 +132,7 @@
 
 <td align="center">
   <img src="https://github.com/Pedroh26ES/Pedroh26ES/blob/main/81RXMnEXrdL.jpg?raw=true" width="120"><br>
-  <sub><b>Programador Pragmático</b></sub><br>
+  <sub><b>Padrôes de Projeto</b></sub><br>
   <sub>Andrew Hunt &amp; David Thomas</sub>
 </td>
 
