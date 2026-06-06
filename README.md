@@ -265,7 +265,7 @@
 
 <div>
 
-<b>📊 Ferramentas para Automações, Growth e Inteligência Artificial</b><br><br>
+<img height="25" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true" alt="Tools Icon"/> <b>📊 Ferramentas para Automações, Growth e Inteligência Artificial</b><br><br>
 
 <p>
   <i>Ferramentas que estou estudando para criar automações, analisar dados, gerar relatórios e aplicar IA em rotinas de Growth.</i>
