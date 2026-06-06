@@ -107,7 +107,7 @@
 </td>
 
 <td align="center">
-  <img src="https://tse3.mm.bing.net/th/id/OIP.68oVvHkh4mVVKRkYzwcaYQHaD4?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="120"><br>
+  <img src="[https://tse3.mm.bing.net/th/id/OIP.68oVvHkh4mVVKRkYzwcaYQHaD4?r=0&rs=1&pid=ImgDetMain&o=7&rm=3](https://github.com/Pedroh26ES/Pedroh26ES/blob/main/csm_CAPA_Introdu%C3%A7%C3%A3o_%C3%A0_linguagem_Python_OK_4c15dec8ef.jpg)" width="120"><br>
   <sub><b>Python Fluente</b></sub><br>
   <sub>Luciano Ramalho</sub>
 </td>
