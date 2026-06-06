@@ -157,110 +157,56 @@
 <div align="center">
 <table>
 <tr>
- <td align="center" colspan="4"></td>
-</tr> 
-<tr>
 
 <td width="280px" align="center">
   <a href="https://github.com/Pedroh26ES/projeto-exemplo-1" target="_blank">
-    <img src="https://github.com/Pedroh26ES/Pedroh26ES/assets/placeholder-project-1.gif" alt="Projeto 1" width="250px" height="150px"/>
+    <img src="./images/projects/projeto-1.gif" alt="Projeto 1" width="250px" height="150px"/>
     <br>
-    <b>Projeto Exemplo 1</b>
-    <br>
-    <sub>Descrição breve do projeto</sub>
+    <b>Sistema de Gestão</b>
   </a>
+  <br>
+  <sub>Aplicação para cadastro, edição e controle de informações em um painel administrativo.</sub>
+  <br>
+  <sub><b>Stack:</b> Java, Spring Boot, MySQL e React</sub>
 </td>
 
 <td width="280px" align="center">
   <a href="https://github.com/Pedroh26ES/projeto-exemplo-2" target="_blank">
-    <img src="https://github.com/Pedroh26ES/Pedroh26ES/assets/placeholder-project-2.gif" alt="Projeto 2" width="250px" height="150px"/>
+    <img src="./images/projects/projeto-2.gif" alt="Projeto 2" width="250px" height="150px"/>
     <br>
-    <b>Projeto Exemplo 2</b>
-    <br>
-    <sub>Descrição breve do projeto</sub>
+    <b>Dashboard de Dados</b>
   </a>
+  <br>
+  <sub>Dashboard para visualização de métricas, relatórios e indicadores de desempenho.</sub>
+  <br>
+  <sub><b>Stack:</b> Python, SQL, Power BI e Google Sheets</sub>
 </td>
 
 <td width="280px" align="center">
   <a href="https://github.com/Pedroh26ES/projeto-exemplo-3" target="_blank">
-    <img src="https://github.com/Pedroh26ES/Pedroh26ES/assets/placeholder-project-3.gif" alt="Projeto 3" width="250px" height="150px"/>
+    <img src="./images/projects/projeto-3.gif" alt="Projeto 3" width="250px" height="150px"/>
     <br>
-    <b>Projeto Exemplo 3</b>
-    <br>
-    <sub>Descrição breve do projeto</sub>
+    <b>Automação com IA</b>
   </a>
+  <br>
+  <sub>Fluxo automatizado para análise, classificação e organização de dados usando IA.</sub>
+  <br>
+  <sub><b>Stack:</b> Python, APIs, n8n, ChatGPT e Google Sheets</sub>
 </td>
 
 <td width="280px" align="center">
   <a href="https://github.com/Pedroh26ES/projeto-exemplo-4" target="_blank">
-    <img src="https://github.com/Pedroh26ES/Pedroh26ES/assets/placeholder-project-4.gif" alt="Projeto 4" width="250px" height="150px"/>
+    <img src="./images/projects/projeto-4.gif" alt="Projeto 4" width="250px" height="150px"/>
     <br>
-    <b>Projeto Exemplo 4</b>
-    <br>
-    <sub>Descrição breve do projeto</sub>
+    <b>Portfólio Web</b>
   </a>
+  <br>
+  <sub>Interface web responsiva para apresentação de projetos, habilidades e informações profissionais.</sub>
+  <br>
+  <sub><b>Stack:</b> HTML, CSS, JavaScript, TypeScript e React</sub>
 </td>
 
 </tr>
-<tr>
- <td align="center" colspan="4"></td>
-</tr> 
-</table>
-</div>
-
-<br>
-
-<div align="center">
-<table>
-<tr>
- <td align="center" colspan="4"></td>
-</tr> 
-<tr>
-
-<td width="280px" align="center">
-  <a href="https://github.com/Pedroh26ES/mockup-exemplo-1" target="_blank">
-    <img src="https://github.com/Pedroh26ES/Pedroh26ES/assets/mockup-project-1.png" alt="Mockup 1" width="250px" height="400px"/>
-    <br>
-    <b>Mockup Projeto 1</b>
-    <br>
-    <sub>Design e interface do projeto</sub>
-  </a>
-</td>
-
-<td width="280px" align="center">
-  <a href="https://github.com/Pedroh26ES/mockup-exemplo-2" target="_blank">
-    <img src="https://github.com/Pedroh26ES/Pedroh26ES/assets/mockup-project-2.png" alt="Mockup 2" width="250px" height="400px"/>
-    <br>
-    <b>Mockup Projeto 2</b>
-    <br>
-    <sub>Design e interface do projeto</sub>
-  </a>
-</td>
-
-<td width="280px" align="center">
-  <a href="https://github.com/Pedroh26ES/mockup-exemplo-3" target="_blank">
-    <img src="https://github.com/Pedroh26ES/Pedroh26ES/assets/mockup-project-3.png" alt="Mockup 3" width="250px" height="400px"/>
-    <br>
-    <b>Mockup Projeto 3</b>
-    <br>
-    <sub>Design e interface do projeto</sub>
-  </a>
-</td>
-
-<td width="280px" align="center">
-  <a href="https://github.com/Pedroh26ES/mockup-exemplo-4" target="_blank">
-    <img src="https://github.com/Pedroh26ES/Pedroh26ES/assets/mockup-project-4.png" alt="Mockup 4" width="250px" height="400px"/>
-    <br>
-    <b>Mockup Projeto 4</b>
-    <br>
-    <sub>Design e interface do projeto</sub>
-  </a>
-</td>
-
-</tr>
-<tr>
- <td align="center" colspan="4"></td>
-</tr> 
 </table>
 </div>
 
