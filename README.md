@@ -151,7 +151,7 @@
 
 <div>
 
-<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/projects.svg?raw=true"/>
+<img height="28" alt="Projetos" src="./projects/project-management.gif"/>
 &nbsp;<b>Principais Projetos</b><br><br>
 
 <div align="center">
