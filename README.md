@@ -1,4 +1,4 @@
-<img src="./images/header_pedro_henrique_escuro_maior_v16.svg" alt="Header Pedro Henrique" width="100%">
+<img src="./images/headers/profile-header.svg" alt="Header Pedro Henrique" width="100%">
 
 <div align="center">
   <img src="https://img.shields.io/badge/-JAVA-151515?style=for-the-badge&logo=java&logoColor=white&labelColor=%23ED8B00" height="45" alt="Java" />
@@ -89,13 +89,13 @@
 <tr>
 
 <td align="center">
-  <img src="./images/csm_CAPA_Introdução_à_linguagem_Python_OK_4c15dec8ef.jpg" width="120"><br>
+  <img src="./images/books/python-introduction.jpg" width="120"><br>
   <sub><b>Introdução à Linguagem Python</b></sub><br>
   <sub>Python</sub>
 </td>
 
 <td align="center">
-  <img src="./images/81RXMnEXrdL.jpg" width="120"><br>
+  <img src="./images/books/design-patterns.jpg" width="120"><br>
   <sub><b>Padrões de Projeto</b></sub><br>
   <sub>Erich Gamma, Richard Helm, Ralph Johnson &amp; John Vlissides</sub>
 </td>
@@ -107,7 +107,7 @@
 </td>
 
 <td align="center">
-  <img src="./images/71nj3JM-igL.jpg" width="120"><br>
+  <img src="./images/books/clean-code.jpg" width="120"><br>
   <sub><b>Clean Code</b></sub><br>
   <sub>Robert C. Martin</sub>
 </td>
@@ -151,14 +151,14 @@
 
 <div align="center">
 
-<h2>&#128193; Principais Projetos</h2>
+<img src="./projects/header-my-projects-animated.svg" alt="Principais Projetos" width="100%">
 
 <div align="center">
 <table>
 <tr>
 
 <td width="420px" align="center">
-  <img src="./projects/project-management.gif" alt="Automação com IA" width="360"/>
+  <img src="./projects/project-card-placeholder.gif" alt="Automação com IA" width="360"/>
   <br>
   <a href="https://github.com/Pedroh26ES/weekly-growth-intelligence-report" target="_blank">
     <b>Automação com IA</b>
@@ -170,7 +170,7 @@
 </td>
 
 <td width="420px" align="center">
-  <img src="./projects/project-management.gif" alt="Sistema de Moedas" width="360"/>
+  <img src="./projects/project-card-placeholder.gif" alt="Sistema de Moedas" width="360"/>
   <br>
   <a href="https://github.com/Pedroh26ES/Sistema-De-Moedas-Java" target="_blank">
     <b>Sistema de Moedas</b>
@@ -185,7 +185,7 @@
 <tr>
 
 <td width="420px" align="center">
-  <img src="./projects/project-management.gif" alt="RoomBookings" width="360"/>
+  <img src="./projects/project-card-placeholder.gif" alt="RoomBookings" width="360"/>
   <br>
   <a href="https://github.com/Pedroh26ES/RoomBookings-Java" target="_blank">
     <b>RoomBookings</b>
@@ -197,7 +197,7 @@
 </td>
 
 <td width="420px" align="center">
-  <img src="./projects/project-management.gif" alt="Gestão das Olimpíadas" width="360"/>
+  <img src="./projects/project-card-placeholder.gif" alt="Gestão das Olimpíadas" width="360"/>
   <br>
   <a href="https://github.com/Pedroh26ES/Sistema-de-Gestao-das-Olimpiadas-Arquitetura" target="_blank">
     <b>Gestão das Olimpíadas</b>
