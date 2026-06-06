@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Pedroh26ES/Pedroh26ES/d10f82b58e4963921af1c8e3da077487acde2210/header_pedro_henrique_escuro_maior_v16.svg?token=BLNVBR46Q5LNAUFHSGCKGNDKEPLRQ" alt="Header Pedro Henrique" width="100%">
+<img src="https://raw.githubusercontent.com/Pedroh26ES/Pedroh26ES/a43bb6db8658a6888059b0d46f330f4b27e508d4/header_pedro_henrique_escuro_maior_v16.svg" alt="Header Pedro Henrique" width="100%">
 
 <div align="center">
   <img src="https://img.shields.io/badge/-JAVA-151515?style=for-the-badge&logo=java&logoColor=white&labelColor=%23ED8B00" height="45" alt="Java" />
@@ -60,13 +60,13 @@
 
 <td>
   <a href="#" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="42px" height="42px" alt="Instagram"/>
+    <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="50px" height="50px" alt="Instagram"/>
   </a>
 </td>
 
 <td>
   <a href="#" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="42px" height="42px" alt="Discord"/>
+    <img src="https://img.icons8.com/color/96/discord-logo.png" width="50px" height="50px" alt="Discord"/>
   </a>
 </td>
 
