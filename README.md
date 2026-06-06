@@ -30,7 +30,7 @@
 <div align="center">
 <table>
 <tr>
- <td align="center" colspan="4"></td>
+ <td align="center" colspan="6"></td>
 </tr> 
 <tr>
 
@@ -58,9 +58,21 @@
   </a>
 </td>
 
+<td>
+  <a href="#" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="42px" height="42px" alt="Instagram"/>
+  </a>
+</td>
+
+<td>
+  <a href="#" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="42px" height="42px" alt="Discord"/>
+  </a>
+</td>
+
 </tr>
 <tr>
- <td align="center" colspan="4"></td>
+ <td align="center" colspan="6"></td>
 </tr> 
 </table>
 </div>
