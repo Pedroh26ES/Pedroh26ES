@@ -160,7 +160,7 @@
 
 <td width="280px" align="center">
   <a href="https://github.com/Pedroh26ES/projeto-exemplo-1" target="_blank">
-    <img src="./images/projects/projeto-1.gif" alt="Projeto 1" width="250px" height="150px"/>
+    <img src="./projects/projeto-1.gif" alt="Projeto 1" width="250px" height="150px"/>
     <br>
     <b>Sistema de Gestão</b>
   </a>
@@ -172,7 +172,7 @@
 
 <td width="280px" align="center">
   <a href="https://github.com/Pedroh26ES/projeto-exemplo-2" target="_blank">
-    <img src="./images/projects/projeto-2.gif" alt="Projeto 2" width="250px" height="150px"/>
+    <img src="./projects/projeto-2.gif" alt="Projeto 2" width="250px" height="150px"/>
     <br>
     <b>Dashboard de Dados</b>
   </a>
@@ -184,7 +184,7 @@
 
 <td width="280px" align="center">
   <a href="https://github.com/Pedroh26ES/projeto-exemplo-3" target="_blank">
-    <img src="./images/projects/projeto-3.gif" alt="Projeto 3" width="250px" height="150px"/>
+    <img src="./projects/projeto-3.gif" alt="Projeto 3" width="250px" height="150px"/>
     <br>
     <b>Automação com IA</b>
   </a>
@@ -196,7 +196,7 @@
 
 <td width="280px" align="center">
   <a href="https://github.com/Pedroh26ES/projeto-exemplo-4" target="_blank">
-    <img src="./images/projects/projeto-4.gif" alt="Projeto 4" width="250px" height="150px"/>
+    <img src="./projects/projeto-4.gif" alt="Projeto 4" width="250px" height="150px"/>
     <br>
     <b>Portfólio Web</b>
   </a>
