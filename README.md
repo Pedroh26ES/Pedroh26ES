@@ -1,6 +1,4 @@
-![header](https://github.com/user-attachments/assets/dd3f7c4c-2712-48b2-8af7-b11db5cab1b8)
-
-<img src="header.svg" alt="" width="100%">
+<img src="https://raw.githubusercontent.com/Pedroh26ES/Pedroh26ES/d10f82b58e4963921af1c8e3da077487acde2210/header_pedro_henrique_escuro_maior_v16.svg?token=BLNVBR46Q5LNAUFHSGCKGNDKEPLRQ" alt="Header Pedro Henrique" width="100%">
 
 <div align="center">
   <img src="https://img.shields.io/badge/-JAVA-151515?style=for-the-badge&logo=java&logoColor=white&labelColor=%23ED8B00" height="45" alt="Java" />
@@ -37,25 +35,25 @@
 <tr>
 
 <td>
-  <a href="https://portifolio-liart-alpha.vercel.app/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="50px" height="50px" alt="Portfólio"/>
   </a>
 </td>
 
 <td>
-  <a href="mailto:seu-email@gmail.com" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px" alt="Gmail"/>
   </a>
 </td>
 
 <td>
-  <a href="https://wa.me/5531996146933" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px" alt="WhatsApp"/>
   </a>
 </td>
 
 <td>
-  <a href="https://www.linkedin.com/in/pedroh26es" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px" alt="LinkedIn"/>
   </a>
 </td>
