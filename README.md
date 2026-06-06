@@ -158,10 +158,10 @@
 <tr>
 
 <td width="420px" align="center">
-  <img src="./projects/project-card-placeholder.gif" alt="Automação com IA" width="360"/>
+  <img src="./projects/project-card-placeholder.gif" alt="Growth AI Intelligence" width="360"/>
   <br>
-  <a href="https://github.com/Pedroh26ES/weekly-growth-intelligence-report" target="_blank">
-    <b>Automação com IA</b>
+  <a href="https://github.com/Pedroh26ES/Growth-AI-Intelligence" target="_blank">
+    <b>Growth AI Intelligence (Agente de IA)</b>
   </a>
   <br>
   <sub>Pipeline em Python que importa PDFs, planilhas e bases CSV, extrai indicadores de growth com IA e entrega um dashboard executivo pronto para tomada de decisão.</sub>
