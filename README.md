@@ -107,6 +107,36 @@
 </td>
 
 </tr>
+
+<tr><td><br></td></tr>
+
+<tr>
+
+<td align="center">
+  <img src="https://th.bing.com/th/id/R.39534082d520c9fc86e59763f32ff82f?rik=84MNI4Pxvwv5EA&pid=ImgRaw&r=0" width="120"><br>
+  <sub><b>Pense em Python</b></sub><br>
+  <sub>Allen B. Downey</sub>
+</td>
+
+<td align="center">
+  <img src="https://th.bing.com/th/id/OIP.cA9Y1DtSz8TuhgNiw794SwHaJ4?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3" width="120"><br>
+  <sub><b>Engenharia de Software Moderna</b></sub><br>
+  <sub>Marco Tulio Valente</sub>
+</td>
+
+<td align="center">
+  <img src="https://th.bing.com/th/id/OIP._rIOtIDQxSLJT8ORAEensgHaKG?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3" width="120"><br>
+  <sub><b>Fundamentos de Sistemas Operacionais</b></sub><br>
+  <sub>Silberschatz, Galvin e Gagne</sub>
+</td>
+
+<td align="center">
+  <img src="https://tse1.mm.bing.net/th/id/OIP.9zxEYLr-xoCAsG8oN-bUAAHaLi?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="120"><br>
+  <sub><b>Scrum</b></sub><br>
+  <sub>Jeff Sutherland</sub>
+</td>
+
+</tr>
 </table>
 
 </div>
