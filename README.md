@@ -131,8 +131,8 @@
 </td>
 
 <td align="center">
-  <img src="https://tse2.mm.bing.net/th/id/OIP.jR1KbeMkRtF2a4tvqI28hgAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="120"><br>
-  <sub><b>The Pragmatic Programmer</b></sub><br>
+  <img src="https://github.com/Pedroh26ES/Pedroh26ES/blob/main/81RXMnEXrdL.jpg?raw=true" width="120"><br>
+  <sub><b>Programador Pragmático</b></sub><br>
   <sub>Andrew Hunt &amp; David Thomas</sub>
 </td>
 
