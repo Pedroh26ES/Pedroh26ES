@@ -149,18 +149,19 @@
 
 ---
 
-<div>
+<div align="center">
 
-<img height="28" alt="Projetos" src="./projects/project-management.gif"/>
-&nbsp;<b>Principais Projetos</b><br><br>
+<img height="80" alt="Projetos" src="./projects/project-management.gif"/>
+<br>
+<b>Principais Projetos</b><br><br>
 
 <div align="center">
 <table>
 <tr>
 
-<td width="280px" align="center">
+<td width="420px" align="center">
   <a href="https://github.com/Pedroh26ES/Sistema-De-Moedas-Java" target="_blank">
-    <img src="./projects/projeto-1.gif" alt="Projeto 1" width="250px" height="150px"/>
+    <img src="./projects/project-management.gif" alt="Sistema de Moedas" width="380px" height="220px"/>
     <br>
     <b>Sistema de Moedas</b>
   </a>
@@ -170,9 +171,9 @@
   <sub><b>Stack:</b> Java, Programação Orientada a Objetos e arquitetura em camadas</sub>
 </td>
 
-<td width="280px" align="center">
+<td width="420px" align="center">
   <a href="https://github.com/Pedroh26ES/RoomBookings-Java" target="_blank">
-    <img src="./projects/projeto-2.gif" alt="Projeto 2" width="250px" height="150px"/>
+    <img src="./projects/project-management.gif" alt="RoomBookings" width="380px" height="220px"/>
     <br>
     <b>RoomBookings</b>
   </a>
@@ -182,9 +183,12 @@
   <sub><b>Stack:</b> Java, Programação Orientada a Objetos e persistência de dados</sub>
 </td>
 
-<td width="280px" align="center">
+</tr>
+<tr>
+
+<td width="420px" align="center">
   <a href="https://github.com/Pedroh26ES/Sistema-de-Gestao-das-Olimpiadas-Arquitetura" target="_blank">
-    <img src="./projects/projeto-3.gif" alt="Projeto 3" width="250px" height="150px"/>
+    <img src="./projects/project-management.gif" alt="Gestão das Olimpíadas" width="380px" height="220px"/>
     <br>
     <b>Gestão das Olimpíadas</b>
   </a>
@@ -194,9 +198,9 @@
   <sub><b>Stack:</b> Arquitetura de Software, documentação técnica e modelagem de sistemas</sub>
 </td>
 
-<td width="280px" align="center">
+<td width="420px" align="center">
   <a href="https://github.com/Pedroh26ES/weekly-growth-intelligence-report" target="_blank">
-    <img src="./projects/projeto-4.gif" alt="Projeto 4" width="250px" height="150px"/>
+    <img src="./projects/project-management.gif" alt="Automação com IA" width="380px" height="220px"/>
     <br>
     <b>Automação com IA</b>
   </a>
