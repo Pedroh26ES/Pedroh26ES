@@ -16,10 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Pedroh26ES&color=blueviolet&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=Pedroh26ES&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  </a>
-  <img src="https://img.shields.io/badge/status-buscando%20estágio-brightgreen?style=for-the-badge" alt="Status"/>
+<img src="https://img.shields.io/badge/status-buscando%20estágio-brightgreen?style=for-the-badge" alt="Status"/>
   <img src="https://img.shields.io/badge/localização-Belo%20Horizonte%2C%20MG-blue?style=for-the-badge&logo=google-maps" alt="BH"/>
   <img src="https://img.shields.io/badge/PUC%20Minas-4º%20Período-orange?style=for-the-badge" alt="PUC Minas"/>
 </p>
@@ -411,10 +408,6 @@
 </table>
 
 ----
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Pedroh26ES&color=green&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
-
-<br>
 
 ```text
  ____           _                _   _                 _                 
