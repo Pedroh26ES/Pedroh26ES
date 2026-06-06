@@ -416,8 +416,6 @@
 
 <br>
 
-[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=Pedroh26ES&theme=apprentice&hide_border=true&border_radius=4.5&locale=pt_BR)](https://nice-readme.vercel.app/streak-stats)
-
 ```text
  ____           _                _   _                 _                 
 |  _ \ ___  __| |_ __ ___      | | | | ___ _ __  _ __(_) __ _ _   _  ___
