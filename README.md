@@ -151,9 +151,8 @@
 
 <div align="center">
 
-<img height="48" alt="Projetos" src="./projects/project-management.gif"/>
-<br>
-<b>Principais Projetos</b><br><br>
+<img height="24" alt="Projetos" src="./projects/project-management.gif"/>
+&nbsp;<b>Principais Projetos</b><br><br>
 
 <div align="center">
 <table>
