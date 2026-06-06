@@ -78,6 +78,12 @@
 <br><br>
 
 <div align="center">
+  <i>✨ Melhores livros da área que eu já estudei e estou estudando para evoluir como desenvolvedor. 🚀📖</i>
+</div>
+
+<br>
+
+<div align="center">
 
 <table>
 <tr>
