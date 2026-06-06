@@ -1,4 +1,3 @@
-````md
 ![header](https://github.com/user-attachments/assets/dd3f7c4c-2712-48b2-8af7-b11db5cab1b8)
 
 <img src="header.svg" alt="" width="100%">
@@ -71,7 +70,7 @@
 </td>
 
 <td>
-  <a href="www.linkedin.com/in/davi-nunes-carvalho" target="_blank">
+  <a href="https://www.linkedin.com/in/davi-nunes-carvalho" target="_blank">
     <img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/>
   </a>
 </td>
@@ -403,6 +402,4 @@
 | |_) / _ \/ _` | '__/ _ \_____| |_| |/ _ \ '_ \| '__| |/ _` | | | |/ _ \
 |  __/  __/ (_| | | | (_) |_____|  _  |  __/ | | | |  | | (_| | |_| |  __/
 |_|   \___|\__,_|_|  \___/      |_| |_|\___|_| |_|_|  |_|\__, |\__,_|\___|
-                                                         |___/            
-
-```
+                                                         |___/
