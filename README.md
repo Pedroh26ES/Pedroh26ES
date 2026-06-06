@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=davii13&color=blueviolet&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=davii13&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://komarev.com/ghpvc/?username=Pedroh26ES&color=blueviolet&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=Pedroh26ES&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
   </a>
   <img src="https://img.shields.io/badge/status-buscando%20estágio-brightgreen?style=for-the-badge" alt="Status"/>
   <img src="https://img.shields.io/badge/localização-Belo%20Horizonte%2C%20MG-blue?style=for-the-badge&logo=google-maps" alt="BH"/>
@@ -46,13 +46,13 @@
 </td>
 
 <td>
-  <a href="https://github.com/Davii13" target="_blank">
+  <a href="https://github.com/Pedroh26ES" target="_blank">
     <img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/>
   </a>
 </td>
 
 <td>
-  <a href="mailto:davinunescarvalho35@gmail.com" target="_blank">
+  <a href="mailto:seu-email@gmail.com" target="_blank">
     <img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/>
   </a>
 </td>
@@ -64,13 +64,13 @@
 </td>
 
 <td>
-  <a href="https://www.instagram.com/davi_nunes.5/" target="_blank">
+  <a href="https://www.instagram.com/pedroh26es/" target="_blank">
     <img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/>
   </a>
 </td>
 
 <td>
-  <a href="https://www.linkedin.com/in/davi-nunes-carvalho" target="_blank">
+  <a href="https://www.linkedin.com/in/pedroh26es" target="_blank">
     <img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/>
   </a>
 </td>
@@ -174,8 +174,8 @@
 <tr>
 
 <td width="280px" align="center">
-  <a href="https://github.com/Davii13/projeto-exemplo-1" target="_blank">
-    <img src="https://github.com/Davii13/Davii13/assets/placeholder-project-1.gif" alt="Projeto 1" width="250px" height="150px"/>
+  <a href="https://github.com/Pedroh26ES/projeto-exemplo-1" target="_blank">
+    <img src="https://github.com/Pedroh26ES/Pedroh26ES/assets/placeholder-project-1.gif" alt="Projeto 1" width="250px" height="150px"/>
     <br>
     <b>Projeto Exemplo 1</b>
     <br>
@@ -184,8 +184,8 @@
 </td>
 
 <td width="280px" align="center">
-  <a href="https://github.com/Davii13/projeto-exemplo-2" target="_blank">
-    <img src="https://github.com/Davii13/Davii13/assets/placeholder-project-2.gif" alt="Projeto 2" width="250px" height="150px"/>
+  <a href="https://github.com/Pedroh26ES/projeto-exemplo-2" target="_blank">
+    <img src="https://github.com/Pedroh26ES/Pedroh26ES/assets/placeholder-project-2.gif" alt="Projeto 2" width="250px" height="150px"/>
     <br>
     <b>Projeto Exemplo 2</b>
     <br>
@@ -194,8 +194,8 @@
 </td>
 
 <td width="280px" align="center">
-  <a href="https://github.com/Davii13/projeto-exemplo-3" target="_blank">
-    <img src="https://github.com/Davii13/Davii13/assets/placeholder-project-3.gif" alt="Projeto 3" width="250px" height="150px"/>
+  <a href="https://github.com/Pedroh26ES/projeto-exemplo-3" target="_blank">
+    <img src="https://github.com/Pedroh26ES/Pedroh26ES/assets/placeholder-project-3.gif" alt="Projeto 3" width="250px" height="150px"/>
     <br>
     <b>Projeto Exemplo 3</b>
     <br>
@@ -204,8 +204,8 @@
 </td>
 
 <td width="280px" align="center">
-  <a href="https://github.com/Davii13/projeto-exemplo-4" target="_blank">
-    <img src="https://github.com/Davii13/Davii13/assets/placeholder-project-4.gif" alt="Projeto 4" width="250px" height="150px"/>
+  <a href="https://github.com/Pedroh26ES/projeto-exemplo-4" target="_blank">
+    <img src="https://github.com/Pedroh26ES/Pedroh26ES/assets/placeholder-project-4.gif" alt="Projeto 4" width="250px" height="150px"/>
     <br>
     <b>Projeto Exemplo 4</b>
     <br>
@@ -230,8 +230,8 @@
 <tr>
 
 <td width="280px" align="center">
-  <a href="https://github.com/Davii13/mockup-exemplo-1" target="_blank">
-    <img src="https://github.com/Davii13/Davii13/assets/mockup-project-1.png" alt="Mockup 1" width="250px" height="400px"/>
+  <a href="https://github.com/Pedroh26ES/mockup-exemplo-1" target="_blank">
+    <img src="https://github.com/Pedroh26ES/Pedroh26ES/assets/mockup-project-1.png" alt="Mockup 1" width="250px" height="400px"/>
     <br>
     <b>Mockup Projeto 1</b>
     <br>
@@ -240,8 +240,8 @@
 </td>
 
 <td width="280px" align="center">
-  <a href="https://github.com/Davii13/mockup-exemplo-2" target="_blank">
-    <img src="https://github.com/Davii13/Davii13/assets/mockup-project-2.png" alt="Mockup 2" width="250px" height="400px"/>
+  <a href="https://github.com/Pedroh26ES/mockup-exemplo-2" target="_blank">
+    <img src="https://github.com/Pedroh26ES/Pedroh26ES/assets/mockup-project-2.png" alt="Mockup 2" width="250px" height="400px"/>
     <br>
     <b>Mockup Projeto 2</b>
     <br>
@@ -250,8 +250,8 @@
 </td>
 
 <td width="280px" align="center">
-  <a href="https://github.com/Davii13/mockup-exemplo-3" target="_blank">
-    <img src="https://github.com/Davii13/Davii13/assets/mockup-project-3.png" alt="Mockup 3" width="250px" height="400px"/>
+  <a href="https://github.com/Pedroh26ES/mockup-exemplo-3" target="_blank">
+    <img src="https://github.com/Pedroh26ES/Pedroh26ES/assets/mockup-project-3.png" alt="Mockup 3" width="250px" height="400px"/>
     <br>
     <b>Mockup Projeto 3</b>
     <br>
@@ -260,8 +260,8 @@
 </td>
 
 <td width="280px" align="center">
-  <a href="https://github.com/Davii13/mockup-exemplo-4" target="_blank">
-    <img src="https://github.com/Davii13/Davii13/assets/mockup-project-4.png" alt="Mockup 4" width="250px" height="400px"/>
+  <a href="https://github.com/Pedroh26ES/mockup-exemplo-4" target="_blank">
+    <img src="https://github.com/Pedroh26ES/Pedroh26ES/assets/mockup-project-4.png" alt="Mockup 4" width="250px" height="400px"/>
     <br>
     <b>Mockup Projeto 4</b>
     <br>
@@ -360,7 +360,7 @@
 
 <table>
 <tr>
- <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@Davii13">WakaTime</a></td>
+ <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@Pedroh26ES">WakaTime</a></td>
 </tr> 
 </table>
 
@@ -371,15 +371,15 @@
 <tr>
 
 <td>
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=Davii13&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=350&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=9" alt="Linguagens mais usadas" width="350" loading="lazy" />
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=Pedroh26ES&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=350&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=9" alt="Linguagens mais usadas" width="350" loading="lazy" />
 </td>
 
 <td>
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=Davii13&layout=pie&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=Pedroh26ES&layout=pie&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
 </td>
 
 <td>
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=Davii13&layout=donut-vertical&stats_format=bytes&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=Pedroh26ES&layout=donut-vertical&stats_format=bytes&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
 </td>
 
 </tr>
@@ -390,11 +390,11 @@
 
 ----
 
-[![Profile Views](https://komarev.com/ghpvc/?username=davii13&color=green&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
+[![Profile Views](https://komarev.com/ghpvc/?username=Pedroh26ES&color=green&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
 
 <br>
 
-[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=davii13&theme=apprentice&hide_border=true&border_radius=4.5&locale=pt_BR)](https://nice-readme.vercel.app/streak-stats)
+[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=Pedroh26ES&theme=apprentice&hide_border=true&border_radius=4.5&locale=pt_BR)](https://nice-readme.vercel.app/streak-stats)
 
 ```text
  ____           _                _   _                 _                 
