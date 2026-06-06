@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="265" viewBox="0 0 350 265" role="img" aria-labelledby="title desc">
+  <title id="title">Linguagens mais usadas</title>
+  <desc id="desc">Distribuicao visual de linguagens: Python 40%, Java 30%, JavaScript React 15%, CSS 8%, SQL 5% e HTML 2%.</desc>
+  <rect width="350" height="265" rx="8" fill="#141414"/>
+  <text x="24" y="32" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">Linguagens mais usadas</text>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="11">
+    <text x="24" y="63" fill="#dbeafe">Python</text>
+    <text x="300" y="63" fill="#dbeafe" text-anchor="end">40%</text>
+    <rect x="24" y="72" width="260" height="8" rx="4" fill="#e5e7eb"/>
+    <rect x="24" y="72" width="260" height="8" rx="4" fill="#3776ab"/>
+
+    <text x="24" y="98" fill="#fff7ed">Java</text>
+    <text x="300" y="98" fill="#fff7ed" text-anchor="end">30%</text>
+    <rect x="24" y="107" width="260" height="8" rx="4" fill="#e5e7eb"/>
+    <rect x="24" y="107" width="195" height="8" rx="4" fill="#f89820"/>
+
+    <text x="24" y="133" fill="#ecfeff">JavaScript / React</text>
+    <text x="300" y="133" fill="#ecfeff" text-anchor="end">15%</text>
+    <rect x="24" y="142" width="260" height="8" rx="4" fill="#e5e7eb"/>
+    <rect x="24" y="142" width="98" height="8" rx="4" fill="#61dafb"/>
+
+    <text x="24" y="168" fill="#eff6ff">CSS</text>
+    <text x="300" y="168" fill="#eff6ff" text-anchor="end">8%</text>
+    <rect x="24" y="177" width="260" height="8" rx="4" fill="#e5e7eb"/>
+    <rect x="24" y="177" width="52" height="8" rx="4" fill="#2965f1"/>
+
+    <text x="24" y="203" fill="#eef2ff">SQL</text>
+    <text x="300" y="203" fill="#eef2ff" text-anchor="end">5%</text>
+    <rect x="24" y="212" width="260" height="8" rx="4" fill="#e5e7eb"/>
+    <rect x="24" y="212" width="33" height="8" rx="4" fill="#336791"/>
+
+    <text x="24" y="238" fill="#fff1f2">HTML</text>
+    <text x="300" y="238" fill="#fff1f2" text-anchor="end">2%</text>
+    <rect x="24" y="247" width="260" height="8" rx="4" fill="#e5e7eb"/>
+    <rect x="24" y="247" width="13" height="8" rx="4" fill="#e34c26"/>
+  </g>
+</svg>

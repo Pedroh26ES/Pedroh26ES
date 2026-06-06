@@ -348,15 +348,15 @@
 <tr>
 
 <td>
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=Pedroh26ES&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=350&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=9" alt="Linguagens mais usadas" width="350" loading="lazy" />
+<img src="./images/stats/linguagens-lista.svg" alt="Linguagens mais usadas - lista" width="350" loading="lazy" />
 </td>
 
 <td>
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=Pedroh26ES&layout=pie&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
+<img src="./images/stats/linguagens-pizza.svg" alt="Linguagens mais usadas - pizza" width="300" loading="lazy" />
 </td>
 
 <td>
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=Pedroh26ES&layout=donut-vertical&stats_format=bytes&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
+<img src="./images/stats/linguagens-donut.svg" alt="Linguagens mais usadas - rosca" width="300" loading="lazy" />
 </td>
 
 </tr>

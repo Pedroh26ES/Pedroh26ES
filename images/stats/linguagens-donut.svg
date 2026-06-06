@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="265" viewBox="0 0 300 265" role="img" aria-labelledby="title desc">
+  <title id="title">Linguagens mais usadas em rosca</title>
+  <desc id="desc">Grafico de rosca com Python 40%, Java 30%, JavaScript React 15%, CSS 8%, SQL 5% e HTML 2%.</desc>
+  <rect width="300" height="265" rx="8" fill="#141414"/>
+  <text x="22" y="30" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Linguagens mais usadas</text>
+
+  <circle cx="150" cy="105" r="54" fill="none" stroke="#262626" stroke-width="34"/>
+  <g transform="rotate(-90 150 105)" fill="none" stroke-linecap="butt">
+    <circle cx="150" cy="105" r="54" stroke="#3776ab" stroke-width="34" stroke-dasharray="135.7 339.3" stroke-dashoffset="0"/>
+    <circle cx="150" cy="105" r="54" stroke="#f89820" stroke-width="34" stroke-dasharray="101.8 339.3" stroke-dashoffset="-135.7"/>
+    <circle cx="150" cy="105" r="54" stroke="#61dafb" stroke-width="34" stroke-dasharray="50.9 339.3" stroke-dashoffset="-237.5"/>
+    <circle cx="150" cy="105" r="54" stroke="#2965f1" stroke-width="34" stroke-dasharray="27.1 339.3" stroke-dashoffset="-288.4"/>
+    <circle cx="150" cy="105" r="54" stroke="#336791" stroke-width="34" stroke-dasharray="17.0 339.3" stroke-dashoffset="-315.5"/>
+    <circle cx="150" cy="105" r="54" stroke="#e34c26" stroke-width="34" stroke-dasharray="6.8 339.3" stroke-dashoffset="-332.5"/>
+  </g>
+  <circle cx="150" cy="105" r="31" fill="#141414"/>
+  <text x="150" y="101" fill="#f8fafc" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">40%</text>
+  <text x="150" y="119" fill="#93c5fd" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700">Python</text>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#e5e7eb">
+    <circle cx="34" cy="205" r="4" fill="#3776ab"/><text x="44" y="209">Python 40%</text>
+    <circle cx="140" cy="205" r="4" fill="#f89820"/><text x="150" y="209">Java 30%</text>
+    <circle cx="34" cy="225" r="4" fill="#61dafb"/><text x="44" y="229">JavaScript/React 15%</text>
+    <circle cx="190" cy="225" r="4" fill="#2965f1"/><text x="200" y="229">CSS 8%</text>
+    <circle cx="34" cy="245" r="4" fill="#336791"/><text x="44" y="249">SQL 5%</text>
+    <circle cx="140" cy="245" r="4" fill="#e34c26"/><text x="150" y="249">HTML 2%</text>
+  </g>
+</svg>
