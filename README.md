@@ -73,7 +73,7 @@
 -----
 
 <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>
-<b>📚 Recomendações de Leitura</b> <br><br>
+<b>📚 Recomendações de Leitura</b> 
 
 <div align="center">
   <i>Melhores livros da área que eu já estudei e estou estudando para evoluir como desenvolvedor. 🚀📖</i>
