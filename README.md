@@ -159,6 +159,18 @@
 <tr>
 
 <td width="420px" align="center">
+  <img src="./projects/project-management.gif" alt="Automação com IA" width="360"/>
+  <br>
+  <a href="https://github.com/Pedroh26ES/weekly-growth-intelligence-report" target="_blank">
+    <b>Automação com IA</b>
+  </a>
+  <br>
+  <sub>Automação que coleta relatórios, interpreta dados com IA e gera um dashboard executivo semanal.</sub>
+  <br>
+  <sub><b>Stack:</b> Python, Streamlit, Gemini API, CSV, Excel, PDF e Google Sheets</sub>
+</td>
+
+<td width="420px" align="center">
   <img src="./projects/project-management.gif" alt="Sistema de Moedas" width="360"/>
   <br>
   <a href="https://github.com/Pedroh26ES/Sistema-De-Moedas-Java" target="_blank">
@@ -169,6 +181,9 @@
   <br>
   <sub><b>Stack:</b> Java, Programação Orientada a Objetos e arquitetura em camadas</sub>
 </td>
+
+</tr>
+<tr>
 
 <td width="420px" align="center">
   <img src="./projects/project-management.gif" alt="RoomBookings" width="360"/>
@@ -182,9 +197,6 @@
   <sub><b>Stack:</b> Java, Programação Orientada a Objetos e persistência de dados</sub>
 </td>
 
-</tr>
-<tr>
-
 <td width="420px" align="center">
   <img src="./projects/project-management.gif" alt="Gestão das Olimpíadas" width="360"/>
   <br>
@@ -195,18 +207,6 @@
   <sub>Projeto de arquitetura para organizar modalidades, atletas, equipes e informações de uma competição olímpica.</sub>
   <br>
   <sub><b>Stack:</b> Arquitetura de Software, documentação técnica e modelagem de sistemas</sub>
-</td>
-
-<td width="420px" align="center">
-  <img src="./projects/project-management.gif" alt="Automação com IA" width="360"/>
-  <br>
-  <a href="https://github.com/Pedroh26ES/weekly-growth-intelligence-report" target="_blank">
-    <b>Automação com IA</b>
-  </a>
-  <br>
-  <sub>Automação que coleta relatórios, interpreta dados com IA e gera um dashboard executivo semanal.</sub>
-  <br>
-  <sub><b>Stack:</b> Python, Streamlit, Gemini API, CSV, Excel, PDF e Google Sheets</sub>
 </td>
 
 </tr>
