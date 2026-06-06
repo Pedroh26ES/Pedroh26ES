@@ -176,9 +176,9 @@
     <b>Sistema de Moedas</b>
   </a>
   <br>
-  <sub>Aplicação em Java para gerenciar moedas, saldos e operações de troca em uma lógica de sistema financeiro.</sub>
+  <sub>Sistema em Java para gerenciar moedas virtuais, saldos e transações, com integração via WhatsApp para interação com usuários e automatização de operações.</sub>
   <br>
-  <sub><b>Stack:</b> Java, Programação Orientada a Objetos e arquitetura em camadas</sub>
+  <sub><b>Stack:</b> Java, Programação Orientada a Objetos, arquitetura em camadas, APIs e WhatsApp</sub>
 </td>
 
 </tr>
