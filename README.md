@@ -159,51 +159,51 @@
 <tr>
 
 <td width="280px" align="center">
-  <a href="https://github.com/Pedroh26ES/projeto-exemplo-1" target="_blank">
+  <a href="https://github.com/Pedroh26ES/Sistema-De-Moedas-Java" target="_blank">
     <img src="./projects/projeto-1.gif" alt="Projeto 1" width="250px" height="150px"/>
     <br>
-    <b>Sistema de Gestão</b>
+    <b>Sistema de Moedas</b>
   </a>
   <br>
-  <sub>Aplicação para cadastro, edição e controle de informações em um painel administrativo.</sub>
+  <sub>Aplicação em Java para gerenciar moedas, saldos e operações de troca em uma lógica de sistema financeiro.</sub>
   <br>
-  <sub><b>Stack:</b> Java, Spring Boot, MySQL e React</sub>
+  <sub><b>Stack:</b> Java, Programação Orientada a Objetos e arquitetura em camadas</sub>
 </td>
 
 <td width="280px" align="center">
-  <a href="https://github.com/Pedroh26ES/projeto-exemplo-2" target="_blank">
+  <a href="https://github.com/Pedroh26ES/RoomBookings-Java" target="_blank">
     <img src="./projects/projeto-2.gif" alt="Projeto 2" width="250px" height="150px"/>
     <br>
-    <b>Dashboard de Dados</b>
+    <b>RoomBookings</b>
   </a>
   <br>
-  <sub>Dashboard para visualização de métricas, relatórios e indicadores de desempenho.</sub>
+  <sub>Sistema para reserva de salas, controle de disponibilidade e organização de agendamentos.</sub>
   <br>
-  <sub><b>Stack:</b> Python, SQL, Power BI e Google Sheets</sub>
+  <sub><b>Stack:</b> Java, Programação Orientada a Objetos e persistência de dados</sub>
 </td>
 
 <td width="280px" align="center">
-  <a href="https://github.com/Pedroh26ES/projeto-exemplo-3" target="_blank">
+  <a href="https://github.com/Pedroh26ES/Sistema-de-Gestao-das-Olimpiadas-Arquitetura" target="_blank">
     <img src="./projects/projeto-3.gif" alt="Projeto 3" width="250px" height="150px"/>
+    <br>
+    <b>Gestão das Olimpíadas</b>
+  </a>
+  <br>
+  <sub>Projeto de arquitetura para organizar modalidades, atletas, equipes e informações de uma competição olímpica.</sub>
+  <br>
+  <sub><b>Stack:</b> Arquitetura de Software, documentação técnica e modelagem de sistemas</sub>
+</td>
+
+<td width="280px" align="center">
+  <a href="https://github.com/Pedroh26ES/weekly-growth-intelligence-report" target="_blank">
+    <img src="./projects/projeto-4.gif" alt="Projeto 4" width="250px" height="150px"/>
     <br>
     <b>Automação com IA</b>
   </a>
   <br>
-  <sub>Fluxo automatizado para análise, classificação e organização de dados usando IA.</sub>
+  <sub>Automação que coleta relatórios, interpreta dados com IA e gera um dashboard executivo semanal.</sub>
   <br>
-  <sub><b>Stack:</b> Python, APIs, n8n, ChatGPT e Google Sheets</sub>
-</td>
-
-<td width="280px" align="center">
-  <a href="https://github.com/Pedroh26ES/projeto-exemplo-4" target="_blank">
-    <img src="./projects/projeto-4.gif" alt="Projeto 4" width="250px" height="150px"/>
-    <br>
-    <b>Portfólio Web</b>
-  </a>
-  <br>
-  <sub>Interface web responsiva para apresentação de projetos, habilidades e informações profissionais.</sub>
-  <br>
-  <sub><b>Stack:</b> HTML, CSS, JavaScript, TypeScript e React</sub>
+  <sub><b>Stack:</b> Python, Streamlit, Gemini API, CSV, Excel, PDF e Google Sheets</sub>
 </td>
 
 </tr>
