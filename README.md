@@ -1,4 +1,4 @@
-<img src="./header_pedro_henrique_escuro_maior_v16.svg" alt="Header Pedro Henrique" width="100%">
+<img src="./images/header_pedro_henrique_escuro_maior_v16.svg" alt="Header Pedro Henrique" width="100%">
 
 <div align="center">
   <img src="https://img.shields.io/badge/-JAVA-151515?style=for-the-badge&logo=java&logoColor=white&labelColor=%23ED8B00" height="45" alt="Java" />
@@ -89,13 +89,13 @@
 <tr>
 
 <td align="center">
-  <img src="https://github.com/Pedroh26ES/Pedroh26ES/blob/main/csm_CAPA_Introdu%C3%A7%C3%A3o_%C3%A0_linguagem_Python_OK_4c15dec8ef.jpg?raw=true" width="120"><br>
+  <img src="./images/csm_CAPA_Introdução_à_linguagem_Python_OK_4c15dec8ef.jpg" width="120"><br>
   <sub><b>Introdução à Linguagem Python</b></sub><br>
   <sub>Python</sub>
 </td>
 
 <td align="center">
-  <img src="https://github.com/Pedroh26ES/Pedroh26ES/blob/main/81RXMnEXrdL.jpg?raw=true" width="120"><br>
+  <img src="./images/81RXMnEXrdL.jpg" width="120"><br>
   <sub><b>Padrões de Projeto</b></sub><br>
   <sub>Erich Gamma, Richard Helm, Ralph Johnson &amp; John Vlissides</sub>
 </td>
@@ -107,7 +107,7 @@
 </td>
 
 <td align="center">
-  <img src="https://github.com/Pedroh26ES/Pedroh26ES/blob/main/71nj3JM-igL.jpg?raw=true" width="120"><br>
+  <img src="./images/71nj3JM-igL.jpg" width="120"><br>
   <sub><b>Clean Code</b></sub><br>
   <sub>Robert C. Martin</sub>
 </td>
