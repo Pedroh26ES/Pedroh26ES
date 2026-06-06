@@ -151,7 +151,7 @@
 
 <div align="center">
 
-<img height="80" alt="Projetos" src="./projects/project-management.gif"/>
+<img height="48" alt="Projetos" src="./projects/project-management.gif"/>
 <br>
 <b>Principais Projetos</b><br><br>
 
@@ -160,9 +160,9 @@
 <tr>
 
 <td width="420px" align="center">
+  <img src="./projects/project-management.gif" alt="Sistema de Moedas" width="360"/>
+  <br>
   <a href="https://github.com/Pedroh26ES/Sistema-De-Moedas-Java" target="_blank">
-    <img src="./projects/project-management.gif" alt="Sistema de Moedas" width="380px" height="220px"/>
-    <br>
     <b>Sistema de Moedas</b>
   </a>
   <br>
@@ -172,9 +172,9 @@
 </td>
 
 <td width="420px" align="center">
+  <img src="./projects/project-management.gif" alt="RoomBookings" width="360"/>
+  <br>
   <a href="https://github.com/Pedroh26ES/RoomBookings-Java" target="_blank">
-    <img src="./projects/project-management.gif" alt="RoomBookings" width="380px" height="220px"/>
-    <br>
     <b>RoomBookings</b>
   </a>
   <br>
@@ -187,9 +187,9 @@
 <tr>
 
 <td width="420px" align="center">
+  <img src="./projects/project-management.gif" alt="Gestão das Olimpíadas" width="360"/>
+  <br>
   <a href="https://github.com/Pedroh26ES/Sistema-de-Gestao-das-Olimpiadas-Arquitetura" target="_blank">
-    <img src="./projects/project-management.gif" alt="Gestão das Olimpíadas" width="380px" height="220px"/>
-    <br>
     <b>Gestão das Olimpíadas</b>
   </a>
   <br>
@@ -199,9 +199,9 @@
 </td>
 
 <td width="420px" align="center">
+  <img src="./projects/project-management.gif" alt="Automação com IA" width="360"/>
+  <br>
   <a href="https://github.com/Pedroh26ES/weekly-growth-intelligence-report" target="_blank">
-    <img src="./projects/project-management.gif" alt="Automação com IA" width="380px" height="220px"/>
-    <br>
     <b>Automação com IA</b>
   </a>
   <br>
