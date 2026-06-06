@@ -24,12 +24,11 @@
   <img src="https://img.shields.io/badge/PUC%20Minas-4º%20Período-orange?style=for-the-badge" alt="PUC Minas"/>
 </p>
 
------
 
 <div align="justify">
 <i><b>Olá</b> :wave:, sou o <code>Pedro Henrique</code>, tenho 20 anos, moro em Belo Horizonte e sou estudante de <code>Engenharia de Software</code> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :computer: Em constante evolução como desenvolvedor e apaixonado por tecnologia.
 </div>
------
+
 
 <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>
 <b>📚 Recomendações de Leitura</b>
