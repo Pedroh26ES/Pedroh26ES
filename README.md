@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Pedroh26ES/Pedroh26ES/a43bb6db8658a6888059b0d46f330f4b27e508d4/header_pedro_henrique_escuro_maior_v16.svg" alt="Header Pedro Henrique" width="100%">
+<img src="https://raw.githubusercontent.com/Pedroh26ES/Pedroh26ES/d10f82b58e4963921af1c8e3da077487acde2210/header_pedro_henrique_escuro_maior_v16.svg?token=BLNVBR46Q5LNAUFHSGCKGNDKEPLRQ" alt="Header Pedro Henrique" width="100%">
 
 <div align="center">
   <img src="https://img.shields.io/badge/-JAVA-151515?style=for-the-badge&logo=java&logoColor=white&labelColor=%23ED8B00" height="45" alt="Java" />
@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+sou+o+Pedro+Henrique+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software;Apaixonado+por+Python/Java+%E2%98%95+e+Futebol+%F0%9F%9A%97;Sempre+aprendendo+e+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+sou+o+Pedro+Henrique+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software;Apaixonado+por+Java+%E2%98%95+e+Carros+%F0%9F%9A%97;Sempre+aprendendo+e+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
