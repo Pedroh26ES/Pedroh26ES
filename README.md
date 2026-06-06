@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Pedroh26ES/Pedroh26ES/d10f82b58e4963921af1c8e3da077487acde2210/header_pedro_henrique_escuro_maior_v16.svg?token=BLNVBR46Q5LNAUFHSGCKGNDKEPLRQ" alt="Header Pedro Henrique" width="100%">
+<img src="./header_pedro_henrique_escuro_maior_v16.svg" alt="Header Pedro Henrique" width="100%">
 
 <div align="center">
   <img src="https://img.shields.io/badge/-JAVA-151515?style=for-the-badge&logo=java&logoColor=white&labelColor=%23ED8B00" height="45" alt="Java" />
