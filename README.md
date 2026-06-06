@@ -73,15 +73,10 @@
 -----
 
 <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>
-<b>📚 Recomendações de Leitura</b> 
+<b>📚 Recomendações de Leitura</b><br>
+<sub><i>✨ Melhores livros da área que eu já estudei e estou estudando para evoluir como desenvolvedor. 🚀📖</i></sub>
 
-<br></br>
-
-<div align="center">
-  <i>Melhores livros da área que eu já estudei e estou estudando para evoluir como desenvolvedor. 🚀📖</i>
-</div>
-
-<br>
+<br><br>
 
 <div align="center">
 
@@ -343,9 +338,34 @@
 </p>
 
 </div>
+-----
+
+<div>
+
+<img height="25" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true" alt="Tools Icon"/>
+&nbsp;<b>📊 Ferramentas para Growth, Dados e Produtividade</b><br><br>
+
+<p>
+  <i>Ferramentas que estou estudando e utilizando para análise de dados, relatórios, automações e apoio em rotinas de estágio, Growth e Business Intelligence.</i>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/>
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google Sheets"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio"/>
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics"/>
+  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white" alt="Google Ads"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/CRM-0A66C2?style=for-the-badge&logo=hubspot&logoColor=white" alt="CRM"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
+</p>
+
+</div>
+
 
 ----
-
 <table>
 <tr>
  <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@Pedroh26ES">WakaTime</a></td>
