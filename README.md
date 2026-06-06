@@ -72,11 +72,9 @@
 
 -----
 
-<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>
-<b>📚 Recomendações de Leitura</b><br>
-<sub><i>Melhores livros da área que eu já estudei e estou estudando para evoluir como desenvolvedor. 🚀📖</i></sub>
-
-<br><br>
+<h3>📚 Recomendações de Leitura</h3>
+<p><i>Melhores livros da área que eu já estudei e estou estudando para evoluir como profissional. 🚀📖</i></p>
+<br>
 
 <div align="center">
 
@@ -340,11 +338,8 @@
 
 <div>
 
-<img height="25" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true" alt="Tools Icon"/> <b>🛠️ Ferramentas para Automações, Growth e Inteligência Artificial</b><br><br>
-
-<p>
-  <i>Ferramentas que estou estudando para criar automações, analisar dados, gerar relatórios e aplicar IA em rotinas de Growth.</i>
-</p>
+<img height="25" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true" alt="Tools Icon"/> <b>🛠️ Ferramentas para Automações, Growth e Inteligência Artificial</b><br>
+<p><i>Ferramentas que estou estudando para criar automações, analisar dados, gerar relatórios e aplicar IA em rotinas de Growth.</i></p>
 
 <b>⚙️ Automações & Produtividade</b><br>
 <p align="left">
