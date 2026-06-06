@@ -165,7 +165,7 @@
     <b>Automação com IA</b>
   </a>
   <br>
-  <sub>Automação que coleta relatórios, interpreta dados com IA e gera um dashboard executivo semanal.</sub>
+  <sub>Pipeline em Python que importa PDFs, planilhas e bases CSV, extrai indicadores de growth com IA e entrega um dashboard executivo pronto para tomada de decisão.</sub>
   <br>
   <sub><b>Stack:</b> Python, Streamlit, Gemini API, CSV, Excel, PDF e Google Sheets</sub>
 </td>
