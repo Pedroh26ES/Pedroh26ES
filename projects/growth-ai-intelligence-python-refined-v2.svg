@@ -1,0 +1,137 @@
+<svg width="720" height="420" viewBox="0 0 720 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Growth AI Intelligence</title>
+  <desc id="desc">Card SVG equilibrado para o projeto Growth AI Intelligence, com logo do Python, linha de crescimento atrás do ícone, estrelas e descrição em uma linha.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="720" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#07101D"/>
+      <stop offset="0.55" stop-color="#0B1729"/>
+      <stop offset="1" stop-color="#081321"/>
+    </linearGradient>
+
+    <linearGradient id="blue" x1="246" y1="76" x2="420" y2="210" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#56A8DD"/>
+      <stop offset="1" stop-color="#306998"/>
+    </linearGradient>
+
+    <linearGradient id="yellow" x1="306" y1="190" x2="456" y2="332" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFE873"/>
+      <stop offset="1" stop-color="#FFD43B"/>
+    </linearGradient>
+
+    <linearGradient id="line" x1="128" y1="294" x2="594" y2="212" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22C55E"/>
+      <stop offset="0.5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+
+    <radialGradient id="orbBlue" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(170 104) rotate(90) scale(112)">
+      <stop stop-color="#38BDF8" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="orbYellow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(586 266) rotate(90) scale(88)">
+      <stop stop-color="#FFD43B" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#FFD43B" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" stroke="#93C5FD" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.22 0 0 0 0 0.68 0 0 0 0 1 0 0 0 0.34 0"/>
+      <feBlend in="SourceGraphic" mode="screen"/>
+    </filter>
+
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="18" stdDeviation="16" flood-color="#000000" flood-opacity="0.40"/>
+    </filter>
+  </defs>
+
+  <style>
+    .logo { animation: float 5.2s ease-in-out infinite; transform-origin: 360px 156px; }
+    .softPulse { animation: pulse 4.4s ease-in-out infinite; }
+    .chipA { animation: chip 4.8s ease-in-out infinite; }
+    .chipB { animation: chip 5.2s ease-in-out infinite reverse; }
+    .growth {
+      stroke-dasharray: 540;
+      animation: dashLoop 3.8s ease-in-out infinite;
+    }
+    .arrow {
+      animation: arrowLoop 3.8s ease-in-out infinite;
+      transform-origin: 594px 212px;
+    }
+    .spark { animation: sparkle 2.7s ease-in-out infinite; transform-origin: center; }
+    .s2 { animation-delay: .5s; }
+    .s3 { animation-delay: 1s; }
+
+    @keyframes float { 0%,100% { transform: translateY(0px);} 50% { transform: translateY(-6px);} }
+    @keyframes pulse { 0%,100% { opacity: .7;} 50% { opacity: 1;} }
+    @keyframes chip { 0%,100% { transform: translateY(0px);} 50% { transform: translateY(-3px);} }
+    @keyframes dashLoop {
+      0%   { stroke-dashoffset: 540; opacity: .15; }
+      8%   { opacity: .95; }
+      55%  { stroke-dashoffset: 0; opacity: 1; }
+      78%  { stroke-dashoffset: 0; opacity: 1; }
+      100% { stroke-dashoffset: -40; opacity: .15; }
+    }
+    @keyframes arrowLoop {
+      0%,12% { opacity: .1; transform: translate(0,0); }
+      45%,70% { opacity: 1; transform: translate(0,0); }
+      58% { transform: translate(4px,-4px); }
+      100% { opacity: .1; transform: translate(0,0); }
+    }
+    @keyframes sparkle { 0%,100% { opacity: .35; transform: scale(.9);} 50% { opacity: 1; transform: scale(1.18);} }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+
+  <rect width="720" height="420" rx="30" fill="url(#bg)"/>
+  <rect width="720" height="420" rx="30" fill="url(#grid)"/>
+  <rect x="1.5" y="1.5" width="717" height="417" rx="28.5" stroke="#38BDF8" stroke-opacity="0.18" stroke-width="3"/>
+
+  <circle class="softPulse" cx="170" cy="104" r="112" fill="url(#orbBlue)"/>
+  <circle class="softPulse" cx="586" cy="266" r="88" fill="url(#orbYellow)"/>
+
+  <g class="chipA">
+    <rect x="42" y="40" width="182" height="36" rx="18" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.22"/>
+    <circle cx="58" cy="58" r="4.5" fill="#22C55E"/>
+    <text x="72" y="63" fill="#93C5FD" font-family="Consolas, Monaco, monospace" font-size="15">CSV • PDF • Sheets</text>
+  </g>
+
+  <g class="chipB">
+    <rect x="498" y="40" width="166" height="36" rx="18" fill="#0F172A" stroke="#FFD43B" stroke-opacity="0.22"/>
+    <circle cx="514" cy="58" r="4" fill="#FFD43B"/>
+    <text x="528" y="63" fill="#FDE68A" font-family="Consolas, Monaco, monospace" font-size="15">IA • JSON • BI</text>
+  </g>
+
+  <!-- Linha animada atrás do ícone -->
+  <g filter="url(#glow)">
+    <path class="growth" d="M128 294 L212 276 L296 282 L382 248 L474 255 L594 212" stroke="url(#line)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <path class="arrow" d="M572 210 L594 212 L586 232" stroke="#A78BFA" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  </g>
+
+  <!-- Ícone Python por cima da linha -->
+  <g class="logo" filter="url(#shadow)">
+    <circle cx="360" cy="156" r="104" fill="#0F2742" opacity="0.22" filter="url(#glow)"/>
+    <path d="M342 56c-56 0-60 24-60 24v36h68v12h-94s-44-4-44 64 38 68 38 68h23v-33s-1-38 37-38h67s37 1 37-36V80s-6-24-72-24Z" fill="url(#blue)"/>
+    <path d="M326 326c56 0 60-24 60-24v-36h-68v-12h94s44 4 44-64-38-68-38-68h-23v33s1 38-37 38h-67s-37-1-37 36v72s6 25 72 25Z" fill="url(#yellow)"/>
+    <circle cx="311" cy="88" r="9" fill="#F8FAFC"/>
+    <circle cx="356" cy="294" r="9" fill="#111827" opacity="0.84"/>
+  </g>
+
+  <g>
+    <path class="spark" d="M520 138 L524 146 L532 150 L524 154 L520 162 L516 154 L508 150 L516 146 Z" fill="#FFFFFF" opacity="0.72"/>
+    <path class="spark s2" d="M190 286 L193 292 L199 295 L193 298 L190 304 L187 298 L181 295 L187 292 Z" fill="#FFD43B" opacity="0.78"/>
+    <path class="spark s3" d="M604 188 L607 194 L613 197 L607 200 L604 206 L601 200 L595 197 L601 194 Z" fill="#38BDF8" opacity="0.74"/>
+  </g>
+
+  <text x="360" y="338" text-anchor="middle" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="800">
+    Growth AI Intelligence
+  </text>
+
+  <text x="360" y="374" text-anchor="middle" fill="#B8C4D7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">
+    Coleta fontes diversas, organiza os dados e gera relatórios executivos em JSON com apoio de IA.
+  </text>
+</svg>
