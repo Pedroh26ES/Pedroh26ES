@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/status-buscando%20estágio-brightgreen?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/status-buscando%20estágio-brightgreen?style=for-the-badge" alt="Status"/>
   <img src="https://img.shields.io/badge/localização-Belo%20Horizonte%2C%20MG-blue?style=for-the-badge&logo=google-maps" alt="BH"/>
   <img src="https://img.shields.io/badge/PUC%20Minas-4º%20Período-orange?style=for-the-badge" alt="PUC Minas"/>
 </p>
@@ -158,7 +158,7 @@
 <tr>
 
 <td width="420px" align="center">
-  <img src="./projects/project-card-placeholder.gif" alt="Growth AI Intelligence" width="360"/>
+  <img src="./projects/growth-ai-intelligence-python-refined-v2.svg" alt="Growth AI Intelligence" width="360"/>
   <br>
   <a href="https://github.com/Pedroh26ES/Growth-AI-Intelligence" target="_blank">
     <b>Growth AI Intelligence (Agente de IA)</b>
@@ -331,9 +331,10 @@
 
 </div>
 
-
 </div>
-----
+
+-----
+
 <table>
 <tr>
  <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@Pedroh26ES">WakaTime</a></td>
