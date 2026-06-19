@@ -1,8 +1,3 @@
-Aqui está a versão completa e atualizada do seu README do GitHub. 
-
-Foram removidas todas as tecnologias que você não citou (como Java, Spring Boot, C, C++, C#, .NET, Node.js, Tailwind, MongoDB, Firebase, etc.) e adicionado o **SQL Server** na seção de bancos de dados. Também atualizei os badges principais do topo e a frase de animação para focar em Python ao invés de Java.
-
-```markdown
 <img src="./images/headers/profile-header.svg" alt="Header Pedro Henrique" width="100%">
 
 <div align="center">
@@ -341,5 +336,3 @@ Foram removidas todas as tecnologias que você não citou (como Java, Spring Boo
 |  __/  __/ (_| | | | (_) |_____|  _  |  __/ | | | |  | | (_| | |_| |  __/
 |_|   \___|\__,_|_|  \___/      |_| |_|\___|_| |_|_|  |_|\__, |\__,_|\___|
                                                          |___/
-```
-```
