@@ -1,16 +1,21 @@
+Aqui está a versão completa e atualizada do seu README do GitHub. 
+
+Foram removidas todas as tecnologias que você não citou (como Java, Spring Boot, C, C++, C#, .NET, Node.js, Tailwind, MongoDB, Firebase, etc.) e adicionado o **SQL Server** na seção de bancos de dados. Também atualizei os badges principais do topo e a frase de animação para focar em Python ao invés de Java.
+
+```markdown
 <img src="./images/headers/profile-header.svg" alt="Header Pedro Henrique" width="100%">
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-JAVA-151515?style=for-the-badge&logo=java&logoColor=white&labelColor=%23ED8B00" height="45" alt="Java" />
   <img src="https://img.shields.io/badge/-PYTHON-151515?style=for-the-badge&logo=python&logoColor=white&labelColor=%233776AB" height="45" alt="Python" />
-  <img src="https://img.shields.io/badge/-SPRING_BOOT-151515?style=for-the-badge&logo=springboot&logoColor=white&labelColor=%236DB33F" height="45" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/-DJANGO-151515?style=for-the-badge&logo=django&logoColor=white&labelColor=%23092E20" height="45" alt="Django" />
+  <img src="https://img.shields.io/badge/-REACT-151515?style=for-the-badge&logo=react&logoColor=white&labelColor=%2361DAFB" height="45" alt="React" />
+  <img src="https://img.shields.io/badge/-FASTAPI-151515?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=%23009688" height="45" alt="FastAPI" />
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+sou+o+Pedro+Henrique+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software;Apaixonado+por+Java+%E2%98%95+e+Carros+%F0%9F%9A%97;Sempre+aprendendo+e+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+sou+o+Pedro+Henrique+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software;Apaixonado+por+Python+%F0%9F%90%8D+e+Carros+%F0%9F%9A%97;Sempre+aprendendo+e+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -224,68 +229,36 @@
 <b>💻 Linguagens de Programação</b><br>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
 <b>🛠️ Frameworks & Bibliotecas</b><br>
 <p align="left">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-  <img src="https://img.shields.io/badge/Micronaut-4261B0?style=for-the-badge&logo=micronaut&logoColor=white" alt="Micronaut"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 </p>
 
 <b>🗄️ Bancos de Dados & Cache</b><br>
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
 </p>
 
 <b>☁️ Cloud & DevOps</b><br>
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
-</p>
-
-<b>🛠️ Ferramentas & APIs</b><br>
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia"/>
-  <img src="https://img.shields.io/badge/SoapUI-24325c?style=for-the-badge&logo=smartbear&logoColor=white" alt="SoapUI"/>
 </p>
 
 <b>🖥️ IDEs & Editores</b><br>
 <p align="left">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Windsurf-000000?style=for-the-badge&logo=windsurf&logoColor=white" alt="Windsurf"/>
-  <img src="https://img.shields.io/badge/Antigravity-4B0082?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Antigravity"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
 </p>
 
@@ -298,10 +271,6 @@
 <b>⚙️ Automações & Produtividade</b><br>
 <p align="left">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make"/>
-  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier"/>
-  <img src="https://img.shields.io/badge/APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
 </p>
 
 <b>🤖 Inteligência Artificial</b><br>
@@ -325,8 +294,6 @@
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/>
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google Sheets"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio"/>
 </p>
 
 </div>
@@ -374,4 +341,5 @@
 |  __/  __/ (_| | | | (_) |_____|  _  |  __/ | | | |  | | (_| | |_| |  __/
 |_|   \___|\__,_|_|  \___/      |_| |_|\___|_| |_|_|  |_|\__, |\__,_|\___|
                                                          |___/
+```
 ```
