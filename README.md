@@ -265,16 +265,16 @@
 
 <b>🤖 Inteligência Artificial</b><br>
 <p align="left">
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=chatgpt&logoColor=white" alt="ChatGPT"/>
   <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
 </p>
 
 <b>📈 Growth & Dados</b><br>
 <p align="left">
   <img src="https://img.shields.io/badge/CRM-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="CRM"/>
-  <img src="https://img.shields.io/badge/Testes%20A/B-FF6F00?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Testes A/B"/>
+  <img src="https://img.shields.io/badge/Testes%20A/B-FF6F00?style=for-the-badge&logo=optimizely&logoColor=white" alt="Testes A/B"/>
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics"/>
   <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white" alt="Google Ads"/>
 </p>
