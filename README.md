@@ -247,7 +247,7 @@
 
 <b>☁️ Cloud & DevOps</b><br>
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
@@ -261,12 +261,7 @@
 
 <div>
 
-<img height="25" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true" alt="Tools Icon"/> <b>🛠️ Ferramentas para Automações, Growth e Inteligência Artificial</b><br><br>
-
-<b>⚙️ Automações & Produtividade</b><br>
-<p align="left">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-</p>
+<img height="25" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true" alt="Tools Icon"/> <b>🛠️ Ferramentas de Growth e Inteligência Artificial</b><br><br>
 
 <b>🤖 Inteligência Artificial</b><br>
 <p align="left">
