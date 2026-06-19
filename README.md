@@ -217,82 +217,87 @@
 -----
 
 <div>
+  <img height="25" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true" alt="Skills Icon"/>
+  &nbsp;<b>🚀 Tecnologias e Ferramentas</b><br><br>
 
-<img height="25" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true" alt="Skills Icon"/>
-&nbsp;<b>🚀 Tecnologias e Ferramentas</b><br><br>
-
-<b>💻 Linguagens de Programação</b><br>
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-<b>🛠️ Frameworks & Bibliotecas</b><br>
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-</p>
-
-<b>🗄️ Bancos de Dados & Cache</b><br>
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
-</p>
-
-<b>☁️ Cloud & DevOps</b><br>
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-</p>
-
-<b>🖥️ IDEs & Editores</b><br>
-<p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
-</p>
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top" align="left">
+        <b>💻 Linguagens de Programação</b><br><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+      </td>
+      <td width="50%" valign="top" align="left">
+        <b>🛠️ Frameworks & Bibliotecas</b><br><br>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top" align="left">
+        <br><b>🗄️ Bancos de Dados</b><br><br>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+      </td>
+      <td width="50%" valign="top" align="left">
+        <br><b>☁️ Cloud & DevOps</b><br><br>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top" align="left">
+        <br><b>🖥️ IDEs & Editores</b><br><br>
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+        <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
+      </td>
+      <td width="50%" valign="top"></td>
+    </tr>
+  </table>
+</div>
 
 -----
 
 <div>
+  <img height="25" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true" alt="Tools Icon"/>
+  &nbsp;<b>🛠️ Automações, Growth e IA</b><br><br>
 
-<img height="25" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true" alt="Tools Icon"/> <b>🛠️ Ferramentas para Automações, Growth e Inteligência Artificial</b><br>
-
-<b>⚙️ Automações & Produtividade</b><br>
-<p align="left">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-</p>
-
-<b>🤖 Inteligência Artificial</b><br>
-<p align="left">
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
-  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
-</p>
-
-<b>📈 Growth & Dados</b><br>
-<p align="left">
-  <img src="https://img.shields.io/badge/CRM-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="CRM"/>
-  <img src="https://img.shields.io/badge/Testes_A%2FB-FF6F00?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Testes A/B"/>
-  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics"/>
-  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white" alt="Google Ads"/>
-</p>
-
-<b>📊 Relatórios & BI</b><br>
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/>
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google Sheets"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-</p>
-
-</div>
-
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top" align="left">
+        <b>⚙️ Automações & Produtividade</b><br><br>
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+      </td>
+      <td width="50%" valign="top" align="left">
+        <b>🤖 Inteligência Artificial</b><br><br>
+        <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+        <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex"/>
+        <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top" align="left">
+        <br><b>📈 Growth & Dados</b><br><br>
+        <img src="https://img.shields.io/badge/CRM-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="CRM"/>
+        <img src="https://img.shields.io/badge/Testes_A%2FB-FF6F00?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Testes A/B"/>
+        <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics"/>
+        <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white" alt="Google Ads"/>
+      </td>
+      <td width="50%" valign="top" align="left">
+        <br><b>📊 Relatórios & BI</b><br><br>
+        <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/>
+        <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google Sheets"/>
+        <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 -----
