@@ -2,7 +2,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/-PYTHON-151515?style=for-the-badge&logo=python&logoColor=white&labelColor=%233776AB" height="45" alt="Python" />
-  <img src="https://img.shields.io/badge/-DJANGO-151515?style=for-the-badge&logo=django&logoColor=white&labelColor=%23092E20" height="45" alt="Django" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/-FASTAPI-151515?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=%23009688" height="45" alt="FastAPI" />
 </div>
