@@ -17,11 +17,6 @@
 </p>
 
 -----
-
-<div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Pedro Henrique</code>, tenho 20 anos, moro em Belo Horizonte e sou estudante de <code>Engenharia de Software</code> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :computer: Em constante evolução como desenvolvedor e apaixonado por tecnologia.
-</div>
-
 <br>
 
 <div align="center">
